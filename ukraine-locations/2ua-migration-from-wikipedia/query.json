@@ -1,0 +1,2636 @@
+[
+    {
+        "item": "http://www.wikidata.org/entity/Q58475",
+        "LabelEN": "Mykolaiv, Lviv Oblast",
+        "LabelUK": "Миколаїв (Львівська область)",
+        "LabelRU": "Николаев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q43070",
+        "LabelEN": "Donetsk",
+        "LabelUK": "Донецьк",
+        "LabelRU": "Донецк"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q45883",
+        "LabelEN": "Khotyn",
+        "LabelUK": "Хотин",
+        "LabelRU": "Хотин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149024",
+        "LabelEN": "Novohrad-Volynskyi",
+        "LabelUK": "Новоград-Волинський",
+        "LabelRU": "Новоград-Волынский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149035",
+        "LabelEN": "Zastavna",
+        "LabelUK": "Заставна",
+        "LabelRU": "Заставна"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149271",
+        "LabelEN": "Chudniv",
+        "LabelUK": "Чуднів",
+        "LabelRU": "Чуднов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q155330",
+        "LabelEN": "Hnivan",
+        "LabelUK": "Гнівань",
+        "LabelRU": "Гнивань"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q7550",
+        "LabelEN": "Lutsk",
+        "LabelUK": "Луцьк",
+        "LabelRU": "Луцк"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146469",
+        "LabelEN": "Khust",
+        "LabelUK": "Хуст",
+        "LabelRU": "Хуст"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157525",
+        "LabelEN": "Boryslav",
+        "LabelUK": "Борислав",
+        "LabelRU": "Борислав"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149173",
+        "LabelEN": "Sokyriany",
+        "LabelUK": "Сокиряни",
+        "LabelRU": "Сокиряны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q70592",
+        "LabelEN": "Uzyn",
+        "LabelUK": "Узин",
+        "LabelRU": "Узин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q71731",
+        "LabelEN": "Rzhyshchiv",
+        "LabelUK": "Ржищів",
+        "LabelRU": "Ржищев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156752",
+        "LabelEN": "Sumy",
+        "LabelUK": "Суми",
+        "LabelRU": "Сумы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158821",
+        "LabelEN": "Drohobych",
+        "LabelUK": "Дрогобич",
+        "LabelRU": "Дрогобыч"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q268768",
+        "LabelEN": "Novyi Kalyniv",
+        "LabelUK": "Новий Калинів",
+        "LabelRU": "Новый Калинов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q207105",
+        "LabelEN": "Oleshky",
+        "LabelUK": "Олешки",
+        "LabelRU": "Алёшки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q147747",
+        "LabelEN": "Storozhynets",
+        "LabelUK": "Сторожинець",
+        "LabelRU": "Сторожинец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148909",
+        "LabelEN": "Andrushivka",
+        "LabelUK": "Андрушівка",
+        "LabelRU": "Андрушёвка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149016",
+        "LabelEN": "Baturyn",
+        "LabelUK": "Батурин",
+        "LabelRU": "Батурин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219591",
+        "LabelEN": "Vatutine",
+        "LabelUK": "Ватутіне",
+        "LabelRU": "Ватутино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219593",
+        "LabelEN": "Talne",
+        "LabelUK": "Тальне",
+        "LabelRU": "Тальное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219856",
+        "LabelEN": "Horodok",
+        "LabelUK": "Городок",
+        "LabelRU": "Городок"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158053",
+        "LabelEN": "Sorokyne",
+        "LabelUK": "Сорокине",
+        "LabelRU": "Сорокино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q208499",
+        "LabelEN": "Uman",
+        "LabelUK": "Умань",
+        "LabelRU": "Умань"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q819126",
+        "LabelEN": "Berestechko",
+        "LabelUK": "Берестечко",
+        "LabelRU": "Берестечко"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q205765",
+        "LabelEN": "Dubrovytsia",
+        "LabelUK": "Дубровиця",
+        "LabelRU": "Дубровица"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q785296",
+        "LabelEN": "Pivdenne",
+        "LabelUK": "Південне",
+        "LabelRU": "Пивденное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q691504",
+        "LabelEN": "Sharhorod",
+        "LabelUK": "Шаргород",
+        "LabelRU": "Шаргород"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591848",
+        "LabelEN": "Haivoron",
+        "LabelUK": "Гайворон",
+        "LabelRU": "Гайворон"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q672990",
+        "LabelEN": "Bilhorod-Dnistrovskyi",
+        "LabelUK": "Білгород-Дністровський",
+        "LabelRU": "Белгород-Днестровский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591872",
+        "LabelEN": "Mala Vyska",
+        "LabelUK": "Мала Виска",
+        "LabelRU": "Малая Виска"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q572899",
+        "LabelEN": "Bashtanka",
+        "LabelUK": "Баштанка",
+        "LabelRU": "Баштанка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591719",
+        "LabelEN": "Novovolynsk",
+        "LabelUK": "Нововолинськ",
+        "LabelRU": "Нововолынск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269530",
+        "LabelEN": "Khorol",
+        "LabelUK": "Хорол",
+        "LabelRU": "Хорол"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269438",
+        "LabelEN": "Zavodske",
+        "LabelUK": "Заводське",
+        "LabelRU": "Заводское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q391938",
+        "LabelEN": "Shchastia",
+        "LabelUK": "Щастя",
+        "LabelRU": "Счастье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q385857",
+        "LabelEN": "Druzhba",
+        "LabelUK": "Дружба",
+        "LabelRU": "Дружба"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269547",
+        "LabelEN": "Zinkiv",
+        "LabelUK": "Зіньків",
+        "LabelRU": "Зеньков"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997381",
+        "LabelEN": "Kopychyntsi",
+        "LabelUK": "Копичинці",
+        "LabelRU": "Копычинцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997404",
+        "LabelEN": "Khodoriv",
+        "LabelUK": "Ходорів",
+        "LabelRU": "Ходоров"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q837093",
+        "LabelEN": "Kadiivka",
+        "LabelUK": "Кадіївка",
+        "LabelRU": "Стаханов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q987491",
+        "LabelEN": "Nova Kakhovka",
+        "LabelUK": "Нова Каховка",
+        "LabelRU": "Новая Каховка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997359",
+        "LabelEN": "Zhydachiv",
+        "LabelUK": "Жидачів",
+        "LabelRU": "Жидачов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1019899",
+        "LabelEN": "Zbarazh",
+        "LabelUK": "Збараж",
+        "LabelRU": "Збараж"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1006629",
+        "LabelEN": "Molochansk",
+        "LabelUK": "Молочанськ",
+        "LabelRU": "Молочанск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q849116",
+        "LabelEN": "Kremenets",
+        "LabelUK": "Кременець",
+        "LabelRU": "Кременец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020058",
+        "LabelEN": "Horodnia",
+        "LabelUK": "Городня",
+        "LabelRU": "Городня"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1025478",
+        "LabelEN": "Vuhlehirsk",
+        "LabelUK": "Вуглегірськ",
+        "LabelRU": "Углегорск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1004257",
+        "LabelEN": "Vyshhorod",
+        "LabelUK": "Вишгород",
+        "LabelRU": "Вышгород"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1013471",
+        "LabelEN": "Okhtyrka",
+        "LabelUK": "Охтирка",
+        "LabelRU": "Ахтырка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2235493",
+        "LabelEN": "Myronivka",
+        "LabelUK": "Миронівка",
+        "LabelRU": "Мироновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q861873",
+        "LabelEN": "Bilyayivka",
+        "LabelUK": "Біляївка",
+        "LabelRU": "Беляевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889630",
+        "LabelEN": "Lozova",
+        "LabelUK": "Лозова",
+        "LabelRU": "Лозовая"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020103",
+        "LabelEN": "Blahovishchenske",
+        "LabelUK": "Благовіщенське",
+        "LabelRU": "Благовещенское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020087",
+        "LabelEN": "Sviatohirsk",
+        "LabelUK": "Святогірськ",
+        "LabelRU": "Святогорск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1749424",
+        "LabelEN": "Snizhne",
+        "LabelUK": "Сніжне",
+        "LabelRU": "Снежное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2351983",
+        "LabelEN": "Bilozerske",
+        "LabelUK": "Білозерське",
+        "LabelRU": "Белозёрское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2354490",
+        "LabelEN": "Perevalsk",
+        "LabelUK": "Перевальськ",
+        "LabelRU": "Перевальск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2354470",
+        "LabelEN": "Sukhodilsk",
+        "LabelUK": "Суходільськ",
+        "LabelRU": "Суходольск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2496758",
+        "LabelEN": "Khrestivka",
+        "LabelUK": "Хрестівка",
+        "LabelRU": "Кировское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415358",
+        "LabelEN": "Mospyne",
+        "LabelUK": "Моспине",
+        "LabelRU": "Моспино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2350295",
+        "LabelEN": "Kreminna",
+        "LabelUK": "Кремінна",
+        "LabelRU": "Кременная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2235501",
+        "LabelEN": "Krolevets",
+        "LabelUK": "Кролевець",
+        "LabelRU": "Кролевец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2371760",
+        "LabelEN": "Debaltseve",
+        "LabelUK": "Дебальцеве",
+        "LabelRU": "Дебальцево"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q13520833",
+        "LabelEN": "Kamianka, Cherkasy Oblast",
+        "LabelUK": "Кам'янка",
+        "LabelRU": "Каменка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997549",
+        "LabelEN": "Lypovets",
+        "LabelUK": "Липовець",
+        "LabelRU": "Липовец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760235",
+        "LabelEN": "Tokmak",
+        "LabelUK": "Токмак",
+        "LabelRU": "Токмак"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020330",
+        "LabelEN": "Kamianka-Buzka",
+        "LabelUK": "Кам'янка-Бузька",
+        "LabelRU": "Каменка-Бугская"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997392",
+        "LabelEN": "Yavoriv",
+        "LabelUK": "Яворів",
+        "LabelRU": "Яворов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997335",
+        "LabelEN": "Nemyriv",
+        "LabelUK": "Немирів",
+        "LabelRU": "Немиров"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q956117",
+        "LabelEN": "Zhmerynka",
+        "LabelUK": "Жмеринка",
+        "LabelRU": "Жмеринка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1000404",
+        "LabelEN": "Pryluky",
+        "LabelUK": "Прилуки",
+        "LabelRU": "Прилуки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020091",
+        "LabelEN": "Terebovlia",
+        "LabelUK": "Теребовля",
+        "LabelRU": "Теребовля"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1011310",
+        "LabelEN": "Khmilnyk",
+        "LabelUK": "Хмільник",
+        "LabelRU": "Хмельник"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1025487",
+        "LabelEN": "Kalmiuske",
+        "LabelUK": "Кальміуське",
+        "LabelRU": "Кальмиусское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1075057",
+        "LabelEN": "Putyvl",
+        "LabelUK": "Путивль",
+        "LabelRU": "Путивль"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1000446",
+        "LabelEN": "Pokrovsk",
+        "LabelUK": "Покровськ",
+        "LabelRU": "Покровск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1003757",
+        "LabelEN": "Khartsyzk",
+        "LabelUK": "Харцизьк",
+        "LabelRU": "Харцызск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q932234",
+        "LabelEN": "Turka",
+        "LabelUK": "Турка",
+        "LabelRU": "Турка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q930449",
+        "LabelEN": "Horodok",
+        "LabelUK": "Городок",
+        "LabelRU": "Городок"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q213183",
+        "LabelEN": "Zalishchyky",
+        "LabelUK": "Заліщики",
+        "LabelRU": "Залещики"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219762",
+        "LabelEN": "Volochysk",
+        "LabelUK": "Волочиськ",
+        "LabelRU": "Волочиск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2493295",
+        "LabelEN": "Svitlodarsk",
+        "LabelUK": "Світлодарськ",
+        "LabelRU": "Светлодарск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2494365",
+        "LabelEN": "Marinka",
+        "LabelUK": "Мар'їнка",
+        "LabelRU": "Марьинка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1996358",
+        "LabelEN": "Amvrosiivka",
+        "LabelUK": "Амвросіївка",
+        "LabelRU": "Амвросиевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q612773",
+        "LabelEN": "Khrustalny, Ukraine",
+        "LabelUK": "Хрустальний",
+        "LabelRU": "Красный Луч"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591863",
+        "LabelEN": "Novoukrainka",
+        "LabelUK": "Новоукраїнка",
+        "LabelRU": "Новоукраинка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q586710",
+        "LabelEN": "Yuzhne",
+        "LabelUK": "Южне",
+        "LabelRU": "Южное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q640649",
+        "LabelEN": "Huliaipole",
+        "LabelUK": "Гуляйполе",
+        "LabelRU": "Гуляйполе"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q639054",
+        "LabelEN": "Zhovti Vody",
+        "LabelUK": "Жовті Води",
+        "LabelRU": "Жёлтые Воды"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q41572",
+        "LabelEN": "Mykolaiv",
+        "LabelUK": "Миколаїв",
+        "LabelRU": "Николаев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415307",
+        "LabelEN": "Petrovo-Krasnosill'a",
+        "LabelUK": "Петрово-Красносілля",
+        "LabelRU": "Петрово-Красноселье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415330",
+        "LabelEN": "Chasiv Yar",
+        "LabelUK": "Часів Яр",
+        "LabelRU": "Часов Яр"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2414524",
+        "LabelEN": "Svatove",
+        "LabelUK": "Сватове",
+        "LabelRU": "Сватово"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2350804",
+        "LabelEN": "Popasna",
+        "LabelUK": "Попасна",
+        "LabelRU": "Попасная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q140671",
+        "LabelEN": "Ostroh",
+        "LabelUK": "Острог",
+        "LabelRU": "Острог"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148997",
+        "LabelEN": "Malyn",
+        "LabelUK": "Малин",
+        "LabelRU": "Малин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2416525",
+        "LabelEN": "Toretsk",
+        "LabelUK": "Торецьк",
+        "LabelRU": "Торецк"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2354450",
+        "LabelEN": "Zhdanivka",
+        "LabelUK": "Жданівка",
+        "LabelRU": "Ждановка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146542",
+        "LabelEN": "Perechyn",
+        "LabelUK": "Перечин",
+        "LabelRU": "Перечин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157440",
+        "LabelEN": "Truskavets",
+        "LabelUK": "Трускавець",
+        "LabelRU": "Трускавец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149144",
+        "LabelEN": "Bakhmach",
+        "LabelUK": "Бахмач",
+        "LabelRU": "Бахмач"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146524",
+        "LabelEN": "Yaremche",
+        "LabelUK": "Яремче",
+        "LabelRU": "Яремче"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156808",
+        "LabelEN": "Bibrka",
+        "LabelUK": "Бібрка",
+        "LabelRU": "Бобрка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156820",
+        "LabelEN": "Nadvirna",
+        "LabelUK": "Надвірна",
+        "LabelRU": "Надворная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q162083",
+        "LabelEN": "Konotop",
+        "LabelUK": "Конотоп",
+        "LabelRU": "Конотоп"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156747",
+        "LabelEN": "Poltava",
+        "LabelUK": "Полтава",
+        "LabelRU": "Полтава"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146453",
+        "LabelEN": "Kalush",
+        "LabelUK": "Калуш",
+        "LabelRU": "Калуш"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156825",
+        "LabelEN": "Chervonohrad",
+        "LabelUK": "Червоноград",
+        "LabelRU": "Червоноград"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157134",
+        "LabelEN": "Makiivka",
+        "LabelUK": "Макіївка",
+        "LabelRU": "Макеевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157144",
+        "LabelEN": "Vinnytsia",
+        "LabelUK": "Вінниця",
+        "LabelRU": "Винница"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2496842",
+        "LabelEN": "Ukrainsk",
+        "LabelUK": "Українськ",
+        "LabelRU": "Украинск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2162658",
+        "LabelEN": "Rokytne",
+        "LabelUK": "Рокитне",
+        "LabelRU": "Рокитное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2354480",
+        "LabelEN": "Bilytske",
+        "LabelUK": "Білицьке",
+        "LabelRU": "Белицкое"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415374",
+        "LabelEN": "Krasnohorivka",
+        "LabelUK": "Красногорівка",
+        "LabelRU": "Красногоровка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q592145",
+        "LabelEN": "Znamianka",
+        "LabelUK": "Знам'янка",
+        "LabelRU": "Знаменка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156711",
+        "LabelEN": "Uzhhorod",
+        "LabelUK": "Ужгород",
+        "LabelRU": "Ужгород"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156588",
+        "LabelEN": "Tysmenytsia",
+        "LabelUK": "Тисмениця",
+        "LabelRU": "Тысменица"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149054",
+        "LabelEN": "Vashkivtsi",
+        "LabelUK": "Вашківці",
+        "LabelRU": "Вашковцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149170",
+        "LabelEN": "Pidhaitsi",
+        "LabelUK": "Підгайці",
+        "LabelRU": "Подгайцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q29756",
+        "LabelEN": "Shakhtarsk",
+        "LabelUK": "Шахтарськ",
+        "LabelRU": "Шахтёрск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q640713",
+        "LabelEN": "Zelenodolsk",
+        "LabelUK": "Зеленодольськ",
+        "LabelRU": "Зеленодольск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q639442",
+        "LabelEN": "Pidhorodne",
+        "LabelUK": "Підгородне",
+        "LabelRU": "Подгородное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q623594",
+        "LabelEN": "Zolochiv",
+        "LabelUK": "Золочів",
+        "LabelRU": "Золочев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q713225",
+        "LabelEN": "Vilniansk",
+        "LabelUK": "Вільнянськ",
+        "LabelRU": "Вольнянск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q664445",
+        "LabelEN": "Voznesenivka",
+        "LabelUK": "Вознесенівка",
+        "LabelRU": "Вознесеновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1026911",
+        "LabelEN": "Sudova Vyshnia",
+        "LabelUK": "Судова Вишня",
+        "LabelRU": "Судовая Вишня"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1104739",
+        "LabelEN": "Krasnohrad",
+        "LabelUK": "Красноград",
+        "LabelRU": "Красноград"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33292",
+        "LabelEN": "Berdiansk",
+        "LabelUK": "Бердянськ",
+        "LabelRU": "Бердянск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161961",
+        "LabelEN": "Myrhorod",
+        "LabelUK": "Миргород",
+        "LabelRU": "Миргород"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q827229",
+        "LabelEN": "Bershad",
+        "LabelUK": "Бершадь",
+        "LabelRU": "Бершадь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020128",
+        "LabelEN": "Khyriv",
+        "LabelUK": "Хирів",
+        "LabelRU": "Хыров"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1025851",
+        "LabelEN": "Novoiavorivsk",
+        "LabelUK": "Новояворівськ",
+        "LabelRU": "Новояворовск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q864827",
+        "LabelEN": "Hlukhiv",
+        "LabelUK": "Глухів",
+        "LabelRU": "Глухов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q719051",
+        "LabelEN": "Artsyz",
+        "LabelUK": "Арциз",
+        "LabelRU": "Арциз"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020083",
+        "LabelEN": "Ladyzhyn",
+        "LabelUK": "Ладижин",
+        "LabelRU": "Ладыжин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156713",
+        "LabelEN": "Zhytomyr",
+        "LabelUK": "Житомир",
+        "LabelRU": "Житомир"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020122",
+        "LabelEN": "Kalynivka",
+        "LabelUK": "Калинівка",
+        "LabelRU": "Калиновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219836",
+        "LabelEN": "Zvenyhorodka",
+        "LabelUK": "Звенигородка",
+        "LabelRU": "Звенигородка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219601",
+        "LabelEN": "Shumsk",
+        "LabelUK": "Шумськ",
+        "LabelRU": "Шумск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33613",
+        "LabelEN": "Kramatorsk",
+        "LabelUK": "Краматорськ",
+        "LabelRU": "Краматорск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33544",
+        "LabelEN": "Volodymyr",
+        "LabelUK": "Володимир (місто)",
+        "LabelRU": "Владимир"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q995152",
+        "LabelEN": "Kakhovka",
+        "LabelUK": "Каховка",
+        "LabelRU": "Каховка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156717",
+        "LabelEN": "Khmelnytskyi",
+        "LabelUK": "Хмельницький",
+        "LabelRU": "Хмельницкий"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q134279",
+        "LabelEN": "Luhansk",
+        "LabelUK": "Луганськ",
+        "LabelRU": "Луганск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q65380",
+        "LabelEN": "Tarashcha",
+        "LabelUK": "Тараща",
+        "LabelRU": "Тараща"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q995147",
+        "LabelEN": "Verkhivtseve",
+        "LabelUK": "Верхівцеве",
+        "LabelRU": "Верховцево"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269523",
+        "LabelEN": "Pyriatyn",
+        "LabelUK": "Пирятин",
+        "LabelRU": "Пирятин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269512",
+        "LabelEN": "Lokhvytsia",
+        "LabelUK": "Лохвиця",
+        "LabelRU": "Лохвица"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889930",
+        "LabelEN": "Bohodukhiv",
+        "LabelUK": "Богодухів",
+        "LabelRU": "Богодухов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889549",
+        "LabelEN": "Snihurivka",
+        "LabelUK": "Снігурівка",
+        "LabelRU": "Снигирёвка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q891175",
+        "LabelEN": "Boyarka",
+        "LabelUK": "Боярка",
+        "LabelRU": "Боярка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157461",
+        "LabelEN": "Kosiv",
+        "LabelUK": "Косів",
+        "LabelRU": "Косов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q218393",
+        "LabelEN": "Karlivka",
+        "LabelUK": "Карлівка",
+        "LabelRU": "Карловка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q376473",
+        "LabelEN": "Novohrodivka",
+        "LabelUK": "Новогродівка",
+        "LabelRU": "Новогродовка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q476688",
+        "LabelEN": "Lebedyn",
+        "LabelUK": "Лебедин",
+        "LabelRU": "Лебедин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q998227",
+        "LabelEN": "Horishni Plavni",
+        "LabelUK": "Горішні Плавні",
+        "LabelRU": "Горишние Плавни"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997522",
+        "LabelEN": "Shcholkine",
+        "LabelUK": "Щолкіне",
+        "LabelRU": "Щёлкино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158604",
+        "LabelEN": "Bakhchysarai",
+        "LabelUK": "Бахчисарай",
+        "LabelRU": "Бахчисарай"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157520",
+        "LabelEN": "Horodenka",
+        "LabelUK": "Городенка",
+        "LabelRU": "Городенка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146551",
+        "LabelEN": "Svalyava",
+        "LabelUK": "Свалява",
+        "LabelRU": "Свалява"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q864836",
+        "LabelEN": "Zhovkva",
+        "LabelUK": "Жовква",
+        "LabelRU": "Жолква"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415345",
+        "LabelEN": "Ilovaisk",
+        "LabelUK": "Іловайськ",
+        "LabelRU": "Иловайск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415316",
+        "LabelEN": "Novodruzhesk",
+        "LabelUK": "Новодружеськ",
+        "LabelRU": "Новодружеск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1947441",
+        "LabelEN": "Kaharlyk",
+        "LabelUK": "Кагарлик",
+        "LabelRU": "Кагарлык"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q52193",
+        "LabelEN": "Kolomyia",
+        "LabelUK": "Коломия",
+        "LabelRU": "Коломыя"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146595",
+        "LabelEN": "Bolekhiv",
+        "LabelUK": "Болехів",
+        "LabelRU": "Болехов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146510",
+        "LabelEN": "Rakhiv",
+        "LabelUK": "Рахів",
+        "LabelRU": "Рахов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q110668",
+        "LabelEN": "Stebnyk",
+        "LabelUK": "Стебник",
+        "LabelRU": "Стебник"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2353496",
+        "LabelEN": "Seredyna-Buda",
+        "LabelUK": "Середина-Буда",
+        "LabelRU": "Середина-Буда"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q47218",
+        "LabelEN": "Ukrainka",
+        "LabelUK": "Українка",
+        "LabelRU": "Украинка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q147739",
+        "LabelEN": "Izmail",
+        "LabelUK": "Ізмаїл",
+        "LabelRU": "Измаил"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156592",
+        "LabelEN": "Morshyn",
+        "LabelUK": "Моршин",
+        "LabelRU": "Моршин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q147292",
+        "LabelEN": "Ustyluh",
+        "LabelUK": "Устилуг",
+        "LabelRU": "Устилуг"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997434",
+        "LabelEN": "Yahotyn",
+        "LabelUK": "Яготин",
+        "LabelRU": "Яготин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148928",
+        "LabelEN": "Zboriv",
+        "LabelUK": "Зборів",
+        "LabelRU": "Зборов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148923",
+        "LabelEN": "Borshchiv",
+        "LabelUK": "Борщів",
+        "LabelRU": "Борщёв"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q147741",
+        "LabelEN": "Hertsa",
+        "LabelUK": "Герца",
+        "LabelRU": "Герца"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156818",
+        "LabelEN": "Sniatyn",
+        "LabelUK": "Снятин",
+        "LabelRU": "Снятын"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157457",
+        "LabelEN": "Tlumach",
+        "LabelUK": "Тлумач",
+        "LabelRU": "Тлумач"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158292",
+        "LabelEN": "Kropyvnytskyi",
+        "LabelUK": "Кропивницький",
+        "LabelRU": "Кропивницкий"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149596",
+        "LabelEN": "Mena",
+        "LabelUK": "Мена",
+        "LabelRU": "Мена"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158799",
+        "LabelEN": "Berdychiv",
+        "LabelUK": "Бердичів",
+        "LabelRU": "Бердичев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148473",
+        "LabelEN": "Chortkiv",
+        "LabelUK": "Чортків",
+        "LabelRU": "Чортков"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148910",
+        "LabelEN": "Berezne",
+        "LabelUK": "Березне",
+        "LabelRU": "Березно"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020096",
+        "LabelEN": "Krasyliv",
+        "LabelUK": "Красилів",
+        "LabelRU": "Красилов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020069",
+        "LabelEN": "Radyvyliv",
+        "LabelUK": "Радивилів",
+        "LabelRU": "Радивилов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997541",
+        "LabelEN": "Varash",
+        "LabelUK": "Вараш",
+        "LabelRU": "Вараш"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156724",
+        "LabelEN": "Kremenchuk",
+        "LabelUK": "Кременчук",
+        "LabelRU": "Кременчуг"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149151",
+        "LabelEN": "Kitsman",
+        "LabelUK": "Кіцмань",
+        "LabelRU": "Кицмань"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149178",
+        "LabelEN": "Khorostkiv",
+        "LabelUK": "Хоростків",
+        "LabelRU": "Хоростков"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q805554",
+        "LabelEN": "Balta",
+        "LabelUK": "Балта",
+        "LabelRU": "Балта"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q809665",
+        "LabelEN": "Barvinkove",
+        "LabelUK": "Барвінкове",
+        "LabelRU": "Барвенково"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161980",
+        "LabelEN": "Chyhyryn",
+        "LabelUK": "Чигирин",
+        "LabelRU": "Чигирин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q841026",
+        "LabelEN": "Brovary",
+        "LabelUK": "Бровари",
+        "LabelRU": "Бровары"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760617",
+        "LabelEN": "Enerhodar",
+        "LabelUK": "Енергодар",
+        "LabelRU": "Энергодар"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219869",
+        "LabelEN": "Horodyshche",
+        "LabelUK": "Городище",
+        "LabelRU": "Городище"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1004740",
+        "LabelEN": "Hirske",
+        "LabelUK": "Гірське",
+        "LabelRU": "Горское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q856018",
+        "LabelEN": "Slavuta",
+        "LabelUK": "Славута",
+        "LabelRU": "Славута"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q951436",
+        "LabelEN": "Selydove",
+        "LabelUK": "Селидове",
+        "LabelRU": "Селидово"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q849109",
+        "LabelEN": "Buchach",
+        "LabelUK": "Бучач",
+        "LabelRU": "Бучач"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q913143",
+        "LabelEN": "Olevsk",
+        "LabelUK": "Олевськ",
+        "LabelRU": "Олевск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889588",
+        "LabelEN": "Podilsk",
+        "LabelUK": "Подільськ",
+        "LabelRU": "Подольск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q890122",
+        "LabelEN": "Bolhrad",
+        "LabelUK": "Болград",
+        "LabelRU": "Болград"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889579",
+        "LabelEN": "Pervomaiskyi",
+        "LabelUK": "Первомайський",
+        "LabelRU": "Первомайский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997351",
+        "LabelEN": "Polonne",
+        "LabelUK": "Полонне",
+        "LabelRU": "Полонное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q706857",
+        "LabelEN": "Bakhmut",
+        "LabelUK": "Бахмут",
+        "LabelRU": "Бахмут"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q737634",
+        "LabelEN": "Rozdilna",
+        "LabelUK": "Роздільна",
+        "LabelRU": "Раздельная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591812",
+        "LabelEN": "Buryn",
+        "LabelUK": "Буринь",
+        "LabelRU": "Бурынь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591896",
+        "LabelEN": "Bilopillia",
+        "LabelUK": "Білопілля",
+        "LabelRU": "Белополье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q572366",
+        "LabelEN": "Dovzhansk",
+        "LabelUK": "Довжанськ",
+        "LabelRU": "Свердловск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q737925",
+        "LabelEN": "Bar",
+        "LabelUK": "Бар",
+        "LabelRU": "Бар"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q669688",
+        "LabelEN": "Skadovs'k",
+        "LabelUK": "Скадовськ",
+        "LabelRU": "Скадовск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q27039",
+        "LabelEN": "Ovruch",
+        "LabelUK": "Овруч",
+        "LabelRU": "Овруч"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33280",
+        "LabelEN": "Lysychansk",
+        "LabelUK": "Лисичанськ",
+        "LabelRU": "Лисичанск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33342",
+        "LabelEN": "Bila Tserkva",
+        "LabelUK": "Біла Церква",
+        "LabelRU": "Белая Церковь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q48256",
+        "LabelEN": "Dnipro",
+        "LabelUK": "Дніпро",
+        "LabelRU": "Днепр"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q640680",
+        "LabelEN": "Novomoskovsk",
+        "LabelUK": "Новомосковськ",
+        "LabelRU": "Новомосковск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q607203",
+        "LabelEN": "Nova Odesa",
+        "LabelUK": "Нова Одеса",
+        "LabelRU": "Новая Одесса"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591788",
+        "LabelEN": "Lanivtsi",
+        "LabelUK": "Ланівці",
+        "LabelRU": "Лановцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591884",
+        "LabelEN": "Bobrynets",
+        "LabelUK": "Бобринець",
+        "LabelRU": "Бобринец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156593",
+        "LabelEN": "Sambir",
+        "LabelUK": "Самбір",
+        "LabelRU": "Самбор"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33581",
+        "LabelEN": "Sloviansk",
+        "LabelUK": "Слов'янськ",
+        "LabelRU": "Славянск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q193965",
+        "LabelEN": "Kamianets-Podilskyi",
+        "LabelUK": "Кам'янець-Подільський",
+        "LabelRU": "Каменец-Подольский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q752334",
+        "LabelEN": "Vynohradiv",
+        "LabelUK": "Виноградів",
+        "LabelRU": "Виноградов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q761130",
+        "LabelEN": "Henichesk",
+        "LabelUK": "Генічеськ",
+        "LabelRU": "Геническ"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146456",
+        "LabelEN": "Mukachevo",
+        "LabelUK": "Мукачево",
+        "LabelRU": "Мукачево"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148890",
+        "LabelEN": "Kivertsi",
+        "LabelUK": "Ківерці",
+        "LabelRU": "Киверцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146474",
+        "LabelEN": "Irshava",
+        "LabelUK": "Іршава",
+        "LabelRU": "Иршава"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156719",
+        "LabelEN": "Kamianske",
+        "LabelUK": "Кам'янське",
+        "LabelRU": "Каменское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q791673",
+        "LabelEN": "Avdiivka",
+        "LabelUK": "Авдіївка",
+        "LabelRU": "Авдеевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148912",
+        "LabelEN": "Borzna",
+        "LabelUK": "Борзна",
+        "LabelRU": "Борзна"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148974",
+        "LabelEN": "Horokhiv",
+        "LabelUK": "Горохів",
+        "LabelRU": "Горохов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149030",
+        "LabelEN": "Novoselytsia",
+        "LabelUK": "Новоселиця",
+        "LabelRU": "Новоселица"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149190",
+        "LabelEN": "Korostyshiv",
+        "LabelUK": "Коростишів",
+        "LabelRU": "Коростышев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q465104",
+        "LabelEN": "Brody",
+        "LabelUK": "Броди",
+        "LabelRU": "Броды"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q544003",
+        "LabelEN": "Izium",
+        "LabelUK": "Ізюм",
+        "LabelRU": "Изюм"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157472",
+        "LabelEN": "Dolyna",
+        "LabelUK": "Долина",
+        "LabelRU": "Долина"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q521105",
+        "LabelEN": "Orikhiv",
+        "LabelUK": "Оріхів",
+        "LabelRU": "Орехов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156812",
+        "LabelEN": "Uhniv",
+        "LabelUK": "Угнів",
+        "LabelRU": "Угнев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219193",
+        "LabelEN": "Chop",
+        "LabelUK": "Чоп",
+        "LabelRU": "Чоп"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q213065",
+        "LabelEN": "Pohrebyshche",
+        "LabelUK": "Погребище",
+        "LabelRU": "Погребище"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q574421",
+        "LabelEN": "Ternivka",
+        "LabelUK": "Тернівка",
+        "LabelRU": "Терновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889555",
+        "LabelEN": "Kupiansk",
+        "LabelUK": "Куп'янськ",
+        "LabelRU": "Купянск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889966",
+        "LabelEN": "Kiliia",
+        "LabelUK": "Кілія",
+        "LabelRU": "Килия"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889566",
+        "LabelEN": "Teplodar",
+        "LabelUK": "Теплодар",
+        "LabelRU": "Теплодар"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q904046",
+        "LabelEN": "Radekhiv",
+        "LabelUK": "Радехів",
+        "LabelRU": "Радехов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q932248",
+        "LabelEN": "Illintsi",
+        "LabelUK": "Іллінці",
+        "LabelRU": "Ильинцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q890311",
+        "LabelEN": "Reni",
+        "LabelUK": "Рені",
+        "LabelRU": "Рени"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q570563",
+        "LabelEN": "Bunhe",
+        "LabelUK": "Бунге",
+        "LabelRU": "Юнокоммунаровск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1004265",
+        "LabelEN": "Komarno",
+        "LabelUK": "Комарно",
+        "LabelRU": "Комарно"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997512",
+        "LabelEN": "Sarny",
+        "LabelUK": "Сарни",
+        "LabelRU": "Сарны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q582033",
+        "LabelEN": "Zolote",
+        "LabelUK": "Золоте",
+        "LabelRU": "Золотое"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219595",
+        "LabelEN": "Smila",
+        "LabelUK": "Сміла",
+        "LabelRU": "Смела"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1106109",
+        "LabelEN": "Derhachi",
+        "LabelUK": "Дергачі",
+        "LabelRU": "Дергачи"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1013474",
+        "LabelEN": "Bucha",
+        "LabelUK": "Буча",
+        "LabelRU": "Буча"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q258223",
+        "LabelEN": "Rudky",
+        "LabelUK": "Рудки",
+        "LabelRU": "Рудки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1940853",
+        "LabelEN": "Siversk",
+        "LabelUK": "Сіверськ",
+        "LabelRU": "Северск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2621513",
+        "LabelEN": "Hirnyk",
+        "LabelUK": "Гірник",
+        "LabelRU": "Горняк"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1844446",
+        "LabelEN": "Pervomaisk",
+        "LabelUK": "Первомайськ",
+        "LabelRU": "Первомайск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2234586",
+        "LabelEN": "Almazna",
+        "LabelUK": "Алмазна",
+        "LabelRU": "Алмазная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q268791",
+        "LabelEN": "Hlobyne",
+        "LabelUK": "Глобине",
+        "LabelRU": "Глобино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1019408",
+        "LabelEN": "Merefa",
+        "LabelUK": "Мерефа",
+        "LabelRU": "Мерефа"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1019852",
+        "LabelEN": "Pustomyty",
+        "LabelUK": "Пустомити",
+        "LabelRU": "Пустомыты"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020108",
+        "LabelEN": "Mostyska",
+        "LabelUK": "Мостиська",
+        "LabelRU": "Мостиска"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1022503",
+        "LabelEN": "Monastyryska",
+        "LabelUK": "Монастириська",
+        "LabelRU": "Монастыриска"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997533",
+        "LabelEN": "Dubliany",
+        "LabelUK": "Дубляни",
+        "LabelRU": "Дубляны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997568",
+        "LabelEN": "Tulchyn",
+        "LabelUK": "Тульчин",
+        "LabelRU": "Тульчин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1000461",
+        "LabelEN": "Kamin-Kashyrskyi",
+        "LabelUK": "Камінь-Каширський",
+        "LabelRU": "Камень-Каширский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020055",
+        "LabelEN": "Sosnivka",
+        "LabelUK": "Соснівка",
+        "LabelRU": "Сосновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1106097",
+        "LabelEN": "Zmiiv",
+        "LabelUK": "Зміїв",
+        "LabelRU": "Змиёв"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1104747",
+        "LabelEN": "Valky",
+        "LabelUK": "Валки",
+        "LabelRU": "Валки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2234641",
+        "LabelEN": "Lyman",
+        "LabelUK": "Лиман",
+        "LabelRU": "Лиман"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2234599",
+        "LabelEN": "Holubivka",
+        "LabelUK": "Голубівка",
+        "LabelRU": "Голубовка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q3562943",
+        "LabelEN": "Volnovakha",
+        "LabelUK": "Волноваха",
+        "LabelRU": "Волноваха"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889618",
+        "LabelEN": "Chuhuiv",
+        "LabelUK": "Чугуїв",
+        "LabelRU": "Чугуев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997412",
+        "LabelEN": "Vynnyky",
+        "LabelUK": "Винники",
+        "LabelRU": "Винники"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997462",
+        "LabelEN": "Peremyshliany",
+        "LabelUK": "Перемишляни",
+        "LabelRU": "Перемышляны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q913962",
+        "LabelEN": "Skole",
+        "LabelUK": "Сколе",
+        "LabelRU": "Сколе"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997343",
+        "LabelEN": "Rava-Ruska",
+        "LabelUK": "Рава-Руська",
+        "LabelRU": "Рава-Русская"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q639428",
+        "LabelEN": "Verkhnodniprovsk",
+        "LabelUK": "Верхньодніпровськ",
+        "LabelRU": "Верхнеднепровск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997371",
+        "LabelEN": "Netishyn",
+        "LabelUK": "Нетішин",
+        "LabelRU": "Нетешин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q829317",
+        "LabelEN": "Beryslav",
+        "LabelUK": "Берислав",
+        "LabelRU": "Берислав"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q819103",
+        "LabelEN": "Berezivka",
+        "LabelUK": "Березівка",
+        "LabelRU": "Березовка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760227",
+        "LabelEN": "Tavriysk",
+        "LabelUK": "Таврійськ",
+        "LabelRU": "Таврийск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997478",
+        "LabelEN": "Novomyrhorod",
+        "LabelUK": "Новомиргород",
+        "LabelRU": "Новомиргород"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1000927",
+        "LabelEN": "Sokal",
+        "LabelUK": "Сокаль",
+        "LabelRU": "Сокаль"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997469",
+        "LabelEN": "Mohyliv-Podilskyi",
+        "LabelUK": "Могилів-Подільський",
+        "LabelRU": "Могилёв-Подольский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219599",
+        "LabelEN": "Khrystynivka",
+        "LabelUK": "Христинівка",
+        "LabelRU": "Христиновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q165243",
+        "LabelEN": "Kostiantynivka",
+        "LabelUK": "Костянтинівка",
+        "LabelRU": "Константиновка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q369383",
+        "LabelEN": "Koziatyn",
+        "LabelUK": "Козятин",
+        "LabelRU": "Казатин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q282824",
+        "LabelEN": "Busk",
+        "LabelUK": "Буськ",
+        "LabelRU": "Буск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q288160",
+        "LabelEN": "Pryvillia",
+        "LabelUK": "Привілля",
+        "LabelRU": "Приволье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1025181",
+        "LabelEN": "Pervomaisk",
+        "LabelUK": "Первомайськ",
+        "LabelRU": "Первомайск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q33349",
+        "LabelEN": "Melitopol",
+        "LabelUK": "Мелітополь",
+        "LabelRU": "Мелитополь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1013568",
+        "LabelEN": "Yuzhnoukrainsk",
+        "LabelUK": "Южноукраїнськ",
+        "LabelRU": "Южноукраинск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q639839",
+        "LabelEN": "Pereiaslav",
+        "LabelUK": "Переяслав",
+        "LabelRU": "Переяслав"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148917",
+        "LabelEN": "Baranivka",
+        "LabelUK": "Баранівка",
+        "LabelRU": "Барановка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148896",
+        "LabelEN": "Rozhysche",
+        "LabelUK": "Рожище",
+        "LabelRU": "Рожище"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q712272",
+        "LabelEN": "Vasylivka",
+        "LabelUK": "Василівка",
+        "LabelRU": "Васильевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q662097",
+        "LabelEN": "Zorynsk",
+        "LabelUK": "Зоринськ",
+        "LabelRU": "Зоринск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1874",
+        "LabelEN": "Odessa",
+        "LabelUK": "Одеса",
+        "LabelRU": "Одесса"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2414508",
+        "LabelEN": "Irmino",
+        "LabelUK": "Ірміно",
+        "LabelRU": "Ирмино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415973",
+        "LabelEN": "Dobropillia",
+        "LabelUK": "Добропілля",
+        "LabelRU": "Доброполье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2353526",
+        "LabelEN": "Novoazovsk",
+        "LabelUK": "Новоазовськ",
+        "LabelRU": "Новоазовск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1011435",
+        "LabelEN": "Svitlovodsk",
+        "LabelUK": "Світловодськ",
+        "LabelRU": "Светловодск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156734",
+        "LabelEN": "Oleksandriia",
+        "LabelUK": "Олександрія",
+        "LabelRU": "Александрия"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1899",
+        "LabelEN": "Kyiv",
+        "LabelUK": "Київ",
+        "LabelRU": "Киев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2416543",
+        "LabelEN": "Rodynske",
+        "LabelUK": "Родинське",
+        "LabelRU": "Родинское"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156704",
+        "LabelEN": "Kovel",
+        "LabelUK": "Ковель",
+        "LabelRU": "Ковель"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156739",
+        "LabelEN": "Rivne",
+        "LabelUK": "Рівне",
+        "LabelRU": "Ровно"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156565",
+        "LabelEN": "Belz",
+        "LabelUK": "Белз",
+        "LabelRU": "Белз"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149201",
+        "LabelEN": "Ichnia",
+        "LabelUK": "Ічня",
+        "LabelRU": "Ичня"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156809",
+        "LabelEN": "Novyi Rozdil",
+        "LabelUK": "Новий Розділ",
+        "LabelRU": "Новый Роздол"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158923",
+        "LabelEN": "Stryi",
+        "LabelUK": "Стрий",
+        "LabelRU": "Стрый"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q545923",
+        "LabelEN": "Tatarbunary",
+        "LabelUK": "Татарбунари",
+        "LabelRU": "Татарбунары"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q485891",
+        "LabelEN": "Ananiv",
+        "LabelUK": "Ананьїв",
+        "LabelRU": "Ананьев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161994",
+        "LabelEN": "Romny",
+        "LabelUK": "Ромни",
+        "LabelRU": "Ромны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q45872",
+        "LabelEN": "Myrnohrad",
+        "LabelUK": "Мирноград",
+        "LabelRU": "Мирноград"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149118",
+        "LabelEN": "Vyzhnytsia",
+        "LabelUK": "Вижниця",
+        "LabelRU": "Вижница"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q71727",
+        "LabelEN": "Irpin",
+        "LabelUK": "Ірпінь",
+        "LabelRU": "Ирпень"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149166",
+        "LabelEN": "Bobrovytsia",
+        "LabelUK": "Бобровиця",
+        "LabelRU": "Бобровица"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760224",
+        "LabelEN": "Hola Prystan",
+        "LabelUK": "Гола Пристань",
+        "LabelRU": "Голая Пристань"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q932184",
+        "LabelEN": "Dubno",
+        "LabelUK": "Дубно",
+        "LabelRU": "Дубно"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146516",
+        "LabelEN": "Tiachiv",
+        "LabelUK": "Тячів",
+        "LabelRU": "Тячев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760555",
+        "LabelEN": "Berezan",
+        "LabelUK": "Березань",
+        "LabelRU": "Березань"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q793424",
+        "LabelEN": "Berezhany",
+        "LabelUK": "Бережани",
+        "LabelRU": "Бережаны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760599",
+        "LabelEN": "Dniprorudne",
+        "LabelUK": "Дніпрорудне",
+        "LabelRU": "Днепрорудное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q70231",
+        "LabelEN": "Slavutych",
+        "LabelUK": "Славутич",
+        "LabelRU": "Славутич"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q841029",
+        "LabelEN": "Iziaslav",
+        "LabelUK": "Ізяслав",
+        "LabelRU": "Изяслав"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889530",
+        "LabelEN": "Chornomorsk",
+        "LabelUK": "Чорноморськ",
+        "LabelRU": "Черноморск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q974468",
+        "LabelEN": "Liuboml",
+        "LabelUK": "Любомль",
+        "LabelRU": "Любомль"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997429",
+        "LabelEN": "Starokostiantyniv",
+        "LabelUK": "Старокостянтинів",
+        "LabelRU": "Староконстантинов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q922375",
+        "LabelEN": "Rubizhne",
+        "LabelUK": "Рубіжне",
+        "LabelRU": "Рубежное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1000454",
+        "LabelEN": "Shostka",
+        "LabelUK": "Шостка",
+        "LabelRU": "Шостка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997398",
+        "LabelEN": "Korets",
+        "LabelUK": "Корець",
+        "LabelRU": "Корец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1011303",
+        "LabelEN": "Obukhiv",
+        "LabelUK": "Обухів",
+        "LabelRU": "Обухов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889563",
+        "LabelEN": "Novyi Buh",
+        "LabelUK": "Новий Буг",
+        "LabelRU": "Новый Буг"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2578764",
+        "LabelEN": "Zlatopol",
+        "LabelUK": "Златопіль",
+        "LabelRU": "Златополь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997440",
+        "LabelEN": "Vyshneve",
+        "LabelUK": "Вишневе",
+        "LabelRU": "Вишнёвое"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1012631",
+        "LabelEN": "Rovenky",
+        "LabelUK": "Ровеньки",
+        "LabelRU": "Ровеньки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020112",
+        "LabelEN": "Nosivka",
+        "LabelUK": "Носівка",
+        "LabelRU": "Носовка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1020077",
+        "LabelEN": "Yasynuvata",
+        "LabelUK": "Ясинувата",
+        "LabelRU": "Ясиноватая"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156726",
+        "LabelEN": "Ivano-Frankivsk",
+        "LabelUK": "Івано-Франківськ",
+        "LabelRU": "Ивано-Франковск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156760",
+        "LabelEN": "Nikopol",
+        "LabelUK": "Нікополь",
+        "LabelRU": "Никополь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157053",
+        "LabelEN": "Chernihiv",
+        "LabelUK": "Чернігів",
+        "LabelRU": "Чернигов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156743",
+        "LabelEN": "Ternopil",
+        "LabelUK": "Тернопіль",
+        "LabelRU": "Тернополь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157055",
+        "LabelEN": "Cherkasy",
+        "LabelUK": "Черкаси",
+        "LabelRU": "Черкассы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q36036",
+        "LabelEN": "Lviv",
+        "LabelUK": "Львів",
+        "LabelRU": "Львов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157725",
+        "LabelEN": "Chernivtsi",
+        "LabelUK": "Чернівці",
+        "LabelRU": "Черновцы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q37133",
+        "LabelEN": "Mariupol",
+        "LabelUK": "Маріуполь",
+        "LabelRU": "Мариуполь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q145957",
+        "LabelEN": "Shpola",
+        "LabelUK": "Шпола",
+        "LabelRU": "Шпола"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q70598",
+        "LabelEN": "Skvyra",
+        "LabelUK": "Сквира",
+        "LabelRU": "Сквира"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157835",
+        "LabelEN": "Zaporizhzhia",
+        "LabelUK": "Запоріжжя",
+        "LabelRU": "Запорожье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158904",
+        "LabelEN": "Korosten",
+        "LabelUK": "Коростень",
+        "LabelRU": "Коростень"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146497",
+        "LabelEN": "Berehove",
+        "LabelUK": "Берегове",
+        "LabelRU": "Берегово"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q640798",
+        "LabelEN": "Synelnykove",
+        "LabelUK": "Синельникове",
+        "LabelRU": "Синельниково"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q46001",
+        "LabelEN": "Alushta",
+        "LabelUK": "Алушта",
+        "LabelRU": "Алушта"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161144",
+        "LabelEN": "Alchevsk",
+        "LabelUK": "Алчевськ",
+        "LabelRU": "Алчевск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q147758",
+        "LabelEN": "Novhorod-Siverskyi",
+        "LabelUK": "Новгород-Сіверський",
+        "LabelRU": "Новгород-Северский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149060",
+        "LabelEN": "Pochaiv",
+        "LabelUK": "Почаїв",
+        "LabelRU": "Почаев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q148985",
+        "LabelEN": "Kostopil",
+        "LabelUK": "Костопіль",
+        "LabelRU": "Костополь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146450",
+        "LabelEN": "Halych",
+        "LabelUK": "Галич",
+        "LabelRU": "Галич"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q70602",
+        "LabelEN": "Tetiiv",
+        "LabelUK": "Тетіїв",
+        "LabelRU": "Тетиев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q146557",
+        "LabelEN": "Burshtyn",
+        "LabelUK": "Бурштин",
+        "LabelRU": "Бурштын"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2416554",
+        "LabelEN": "Dokuchaevsk",
+        "LabelUK": "Докучаєвськ",
+        "LabelRU": "Докучаевск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2416423",
+        "LabelEN": "Vuhledar",
+        "LabelUK": "Вугледар",
+        "LabelRU": "Угледар"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415962",
+        "LabelEN": "Mykolaivka",
+        "LabelUK": "Миколаївка",
+        "LabelRU": "Николаевка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149163",
+        "LabelEN": "Radomyshl",
+        "LabelUK": "Радомишль",
+        "LabelRU": "Радомышль"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149159",
+        "LabelEN": "Skalat",
+        "LabelUK": "Скалат",
+        "LabelRU": "Скалат"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2354462",
+        "LabelEN": "Bokovo-Khrustalne",
+        "LabelUK": "Боково-Хрустальне",
+        "LabelRU": "Вахрушево"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2399843",
+        "LabelEN": "Soledar",
+        "LabelUK": "Соледар",
+        "LabelRU": "Соледар"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2415287",
+        "LabelEN": "Miusynsk",
+        "LabelUK": "Міусинськ",
+        "LabelRU": "Миусинск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269517",
+        "LabelEN": "Lubny",
+        "LabelUK": "Лубни",
+        "LabelRU": "Лубны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q609028",
+        "LabelEN": "Antratsyt",
+        "LabelUK": "Антрацит",
+        "LabelRU": "Антрацит"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q669778",
+        "LabelEN": "Zuhres",
+        "LabelUK": "Зугрес",
+        "LabelRU": "Зугрэс"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2350829",
+        "LabelEN": "Kypuche",
+        "LabelUK": "Кипуче",
+        "LabelRU": "Артёмовск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q760594",
+        "LabelEN": "Kamianka-Dniprovska",
+        "LabelUK": "Кам'янка-Дніпровська",
+        "LabelRU": "Каменка-Днепровская"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q158910",
+        "LabelEN": "Boryspil",
+        "LabelUK": "Бориспіль",
+        "LabelRU": "Борисполь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q610813",
+        "LabelEN": "Marhanets",
+        "LabelUK": "Марганець",
+        "LabelRU": "Марганец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q268638",
+        "LabelEN": "Hadiach",
+        "LabelUK": "Гадяч",
+        "LabelRU": "Гадяч"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q577225",
+        "LabelEN": "Vilnohirsk",
+        "LabelUK": "Вільногірськ",
+        "LabelRU": "Вольногорск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591794",
+        "LabelEN": "Vorozhba",
+        "LabelUK": "Ворожба",
+        "LabelRU": "Ворожба"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q606706",
+        "LabelEN": "Trostianets",
+        "LabelUK": "Тростянець",
+        "LabelRU": "Тростянец"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q604607",
+        "LabelEN": "Pershotravensk",
+        "LabelUK": "Першотравенськ",
+        "LabelRU": "Першотравенск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q149181",
+        "LabelEN": "Koriukivka",
+        "LabelUK": "Корюківка",
+        "LabelRU": "Корюковка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q2238005",
+        "LabelEN": "Molodohvardiysk",
+        "LabelUK": "Молодогвардійськ",
+        "LabelRU": "Молодогвардейск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q269538",
+        "LabelEN": "Kobeliaky",
+        "LabelUK": "Кобеляки",
+        "LabelRU": "Кобеляки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q278678",
+        "LabelEN": "Pomichna",
+        "LabelUK": "Помічна",
+        "LabelRU": "Помошная"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q576937",
+        "LabelEN": "Starí Krim",
+        "LabelUK": "Старий Крим",
+        "LabelRU": "Старый Крым"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q492297",
+        "LabelEN": "Yampil, Vinnytsia Oblast",
+        "LabelUK": "Ямпіль",
+        "LabelRU": "Ямполь"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q475572",
+        "LabelEN": "Apostolove",
+        "LabelUK": "Апостолове",
+        "LabelRU": "Апостолово"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q368856",
+        "LabelEN": "Polohy",
+        "LabelUK": "Пологи",
+        "LabelRU": "Пологи"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q268814",
+        "LabelEN": "Hrebinka",
+        "LabelUK": "Гребінка",
+        "LabelRU": "Гребёнка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q268656",
+        "LabelEN": "Dobromyl",
+        "LabelUK": "Добромиль",
+        "LabelRU": "Добромиль"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889542",
+        "LabelEN": "Liubotyn",
+        "LabelUK": "Люботин",
+        "LabelRU": "Люботин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q591822",
+        "LabelEN": "Dolynska",
+        "LabelUK": "Долинська",
+        "LabelRU": "Долинская"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q574553",
+        "LabelEN": "Haisyn",
+        "LabelUK": "Гайсин",
+        "LabelRU": "Гайсин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q573621",
+        "LabelEN": "Pereschepyne",
+        "LabelUK": "Перещепине",
+        "LabelRU": "Перещепино"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q162084",
+        "LabelEN": "Chystiakove",
+        "LabelUK": "Чистякове",
+        "LabelRU": "Торез"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1633740",
+        "LabelEN": "Zymohiria",
+        "LabelUK": "Зимогір'я",
+        "LabelRU": "Зимогорье"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1659768",
+        "LabelEN": "Brianka",
+        "LabelUK": "Брянка",
+        "LabelRU": "Брянка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219769",
+        "LabelEN": "Zolotonosha",
+        "LabelUK": "Золотоноша",
+        "LabelRU": "Золотоноша"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q615451",
+        "LabelEN": "Voznesensk",
+        "LabelUK": "Вознесенськ",
+        "LabelRU": "Вознесенск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q640661",
+        "LabelEN": "Piatykhatky",
+        "LabelUK": "П'ятихатки",
+        "LabelRU": "Пятихатки"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q639476",
+        "LabelEN": "Pokrov",
+        "LabelUK": "Покров",
+        "LabelRU": "Покров"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219766",
+        "LabelEN": "Korsun-Shevchenkivskyi",
+        "LabelUK": "Корсунь-Шевченківський",
+        "LabelRU": "Корсунь-Шевченковский"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q925340",
+        "LabelEN": "Kaniv",
+        "LabelUK": "Канів",
+        "LabelRU": "Канев"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1945882",
+        "LabelEN": "Oleksandrivsk",
+        "LabelUK": "Олександрівськ",
+        "LabelRU": "Александровск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219820",
+        "LabelEN": "Monastyryshche",
+        "LabelUK": "Монастирище",
+        "LabelRU": "Монастырище"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q952457",
+        "LabelEN": "Nizhyn",
+        "LabelUK": "Ніжин",
+        "LabelRU": "Нежин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q863330",
+        "LabelEN": "Bilohirsk",
+        "LabelUK": "Білогірськ",
+        "LabelRU": "Белогорск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889536",
+        "LabelEN": "Vylkove",
+        "LabelUK": "Вилкове",
+        "LabelRU": "Вилково"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q912378",
+        "LabelEN": "Velyki Mosty",
+        "LabelUK": "Великі Мости",
+        "LabelRU": "Великие Мосты"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q889573",
+        "LabelEN": "Kodyma",
+        "LabelUK": "Кодима",
+        "LabelRU": "Кодыма"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997421",
+        "LabelEN": "Vasylkiv",
+        "LabelUK": "Васильків",
+        "LabelRU": "Васильков"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q997502",
+        "LabelEN": "Hlyniany",
+        "LabelUK": "Глиняни",
+        "LabelRU": "Глиняны"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1019815",
+        "LabelEN": "Oster",
+        "LabelUK": "Остер",
+        "LabelRU": "Остёр"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1023513",
+        "LabelEN": "Kurakhove",
+        "LabelUK": "Курахове",
+        "LabelRU": "Курахово"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156732",
+        "LabelEN": "Kherson",
+        "LabelUK": "Херсон",
+        "LabelRU": "Херсон"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161984",
+        "LabelEN": "Fastiv",
+        "LabelUK": "Фастів",
+        "LabelRU": "Фастов"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q987345",
+        "LabelEN": "Starobilsk",
+        "LabelUK": "Старобільськ",
+        "LabelRU": "Старобельск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q986263",
+        "LabelEN": "Balakliia",
+        "LabelUK": "Балаклія",
+        "LabelRU": "Балаклея"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1104773",
+        "LabelEN": "Vovchansk",
+        "LabelUK": "Вовчанськ",
+        "LabelRU": "Волчанск"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1025844",
+        "LabelEN": "Staryi Sambir",
+        "LabelUK": "Старий Самбір",
+        "LabelRU": "Старый Самбор"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157137",
+        "LabelEN": "Kryvyi Rih",
+        "LabelUK": "Кривий Ріг",
+        "LabelRU": "Кривой Рог"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157260",
+        "LabelEN": "Horlivka",
+        "LabelUK": "Горлівка",
+        "LabelRU": "Горловка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q157795",
+        "LabelEN": "Druzhkivka",
+        "LabelUK": "Дружківка",
+        "LabelRU": "Дружковка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q160584",
+        "LabelEN": "Sievierodonetsk",
+        "LabelUK": "Сєвєродонецьк",
+        "LabelRU": "Северодонецк"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q237206",
+        "LabelEN": "Pavlohrad",
+        "LabelUK": "Павлоград",
+        "LabelRU": "Павлоград"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1686835",
+        "LabelEN": "Yenakiieve",
+        "LabelUK": "Єнакієве",
+        "LabelRU": "Енакиево"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q156821",
+        "LabelEN": "Rohatyn",
+        "LabelUK": "Рогатин",
+        "LabelRU": "Рогатин"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q161965",
+        "LabelEN": "Shepetivka",
+        "LabelUK": "Шепетівка",
+        "LabelRU": "Шепетовка"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219770",
+        "LabelEN": "Zhashkiv",
+        "LabelUK": "Жашків",
+        "LabelRU": "Жашков"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q219775",
+        "LabelEN": "Derazhnia",
+        "LabelUK": "Деражня",
+        "LabelRU": "Деражня"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q170456",
+        "LabelEN": "Pripyat",
+        "LabelUK": "Прип'ять",
+        "LabelRU": "Припять"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1937296",
+        "LabelEN": "Zalizne",
+        "LabelUK": "Залізне",
+        "LabelRU": "Зализное"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q850072",
+        "LabelEN": "Ochakiv",
+        "LabelUK": "Очаків",
+        "LabelRU": "Очаков"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "id": 2,
+        "uaName": "Харківська область",
+        "ruName": "Харьковская область",
+        "enName": "Kharkiv region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 3,
+        "uaName": "Одеська область",
+        "ruName": "Одесская область",
+        "enName": "Odessa region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 4,
+        "uaName": "Дніпропетровська область",
+        "ruName": "Днепропетровская область",
+        "enName": "Dnipropetrovsk region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 5,
+        "uaName": "Донецька область",
+        "ruName": "Донецкая область",
+        "enName": "Donetsk region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 6,
+        "uaName": "Запорізька область",
+        "ruName": "Запорожская область",
+        "enName": "Zaporizhzhia region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 7,
+        "uaName": "Львівська область",
+        "ruName": "Львовская область",
+        "enName": "Lviv region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 8,
+        "uaName": "Миколаївська область",
+        "ruName": "Николаевская область",
+        "enName": "Mykolaiv region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 9,
+        "uaName": "Севастополь",
+        "ruName": "Севастополь",
+        "enName": "Sevastopol",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 10,
+        "uaName": "Луганська область",
+        "ruName": "Луганская область",
+        "enName": "Luhansk region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 11,
+        "uaName": "Вінницька область",
+        "ruName": "Винницкая область",
+        "enName": "Vinnytsia region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 12,
+        "uaName": "Автономна Республіка Крим",
+        "ruName": "Автономная Республика Крым",
+        "enName": "Autonomous Republic of Crimea",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 13,
+        "uaName": "Херсонська область",
+        "ruName": "Херсонская область",
+        "enName": "Kherson region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 14,
+        "uaName": "Чернігівська область",
+        "ruName": "Черниговская область",
+        "enName": "Chernihiv region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 15,
+        "uaName": "Полтавська область",
+        "ruName": "Полтавская область",
+        "enName": "Poltava region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 16,
+        "uaName": "Черкаська область",
+        "ruName": "Черкасская область",
+        "enName": "Cherkasy region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 17,
+        "uaName": "Хмельницька область",
+        "ruName": "Хмельницкая область",
+        "enName": "Khmelnytskyi region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 18,
+        "uaName": "Чернівецька область",
+        "ruName": "Черновицкая область",
+        "enName": "Chernivtsi region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 19,
+        "uaName": "Житомирська область",
+        "ruName": "Житомирская область",
+        "enName": "Zhytomyr region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 20,
+        "uaName": "Сумська область",
+        "ruName": "Сумская область",
+        "enName": "Sumy region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 21,
+        "uaName": "Рівненська область",
+        "ruName": "Ровненская область",
+        "enName": "Rivne region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 22,
+        "uaName": "Івано-Франківська область",
+        "ruName": "Ивано-Франковская область",
+        "enName": "Ivano-Frankivsk region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 23,
+        "uaName": "Кіровоградська область",
+        "ruName": "Кировоградская область",
+        "enName": "Kirovohrad region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 24,
+        "uaName": "Тернопільська область",
+        "ruName": "Тернопольская область",
+        "enName": "Ternopil region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 25,
+        "uaName": "Волинська область",
+        "ruName": "Волынская область",
+        "enName": "Volyn region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 26,
+        "uaName": "Київська область",
+        "ruName": "Киевская область",
+        "enName": "Kyiv region",
+        "date": "2022-05-15"
+    },
+    {
+        "id": 27,
+        "uaName": "Закарпатська область",
+        "ruName": "Закарпатская область",
+        "enName": "Zakarpattia region",
+        "date": "2022-05-15"
+    }
+]
