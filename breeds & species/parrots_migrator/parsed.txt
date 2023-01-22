@@ -1,0 +1,19 @@
+Какателі,Коктейль,Cockatiels
+Великі какаду,Большие какаду,Large Cockatoos
+Loriers і Lorikeets,Лыи и Лорикеты,Lories and Lorikeets
+Еклект,Эклект,Eclectus
+Маленькі какаду,Маленькие какаду,Small Cockatoos
+Африканські гри,Африканские серые,African Greys
+Любити птахів,Влюбленные,Lovebirds
+Малі папуги,Маленькие попугаи,Small Parakeets
+Кайка,Caic.,Caiques
+Pionus parrots,Pionus попугаи,Pionus Parrots
+Амазонки,Амазонки,Amazons
+Яструб головував папуги,Главные попугаи ястреба,Hawk Headed Parrots
+Великі корисниці,Большие заводы,Large Conures
+Міні-макари,Мини-скоры,Mini-Macaws
+Великі папуги,Большие попугаи,Large Parakeets
+Макари,Мары,Macaws
+Парротлети,Попугая,Parrotlets
+Дрібні конали,Маленькие заводы,Small Conures
+Пухлина,Пожила,Poicephalus
