@@ -1,0 +1,922 @@
+[
+    {
+        "href": "https://en.wikipedia.org/wiki/Abdominal_pain",
+        "text": "abdomen"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Back_pain",
+        "text": "back"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chest_pain",
+        "text": "chest"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Otalgia",
+        "text": "ear"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Headache",
+        "text": "head"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Pelvic_pain",
+        "text": "pelvis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Toothache",
+        "text": "tooth"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Rectal_pain",
+        "text": "rectum"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dermatome_(anatomy)",
+        "text": "skin"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome",
+        "text": "leg"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chronic_pain",
+        "text": "Chronic pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chills",
+        "text": "Chills"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fever",
+        "text": "Fever"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Paresthesia",
+        "text": "Paresthesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Light-headed",
+        "text": "Light-headed"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fainting",
+        "text": "Dizzy – about to black out"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Vertigo_(medical)",
+        "text": "Dizzy – with the room spinning around me"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Xerostomia",
+        "text": "My mouth is dry"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Nausea",
+        "text": "Nauseated"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Malaise",
+        "text": "like I have the flu"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Nausea",
+        "text": "like I have to vomit"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dyspnea",
+        "text": "Short of breath"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Somnolence",
+        "text": "Sleepy"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Diaphoresis",
+        "text": "Sweaty"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Thirst",
+        "text": "Thirsty"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fatigue_(medical)",
+        "text": "Tired"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Muscle_weakness",
+        "text": "Weak"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dyspnea",
+        "text": "Breathe normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hearing_impairment",
+        "text": "losing hearing"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hyperacusis",
+        "text": "sounds are too loud"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tinnitus",
+        "text": "ringing or hissing in my ears"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hemiplegia",
+        "text": "Move one side"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Constipation",
+        "text": "Defecate normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urinary_retention",
+        "text": "Urinate normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amnesia",
+        "text": "Remember normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blindness",
+        "text": "Blindness"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blurred_vision",
+        "text": "blurred vision"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Diplopia",
+        "text": "double vision"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Insomnia",
+        "text": "Sleep normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anosmia",
+        "text": "Smell"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Aphasia",
+        "text": "Speak normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Diarrhea",
+        "text": "Excrete solid feces"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Itch",
+        "text": "Stop scratching"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hyperhidrosis",
+        "text": "Stop sweating"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysphagia",
+        "text": "Swallow normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysgeusia",
+        "text": "Taste"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Ataxia",
+        "text": "Walk normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysgraphia",
+        "text": "Write normally"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anorexia_(symptom)",
+        "text": "anorexia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Weight_loss",
+        "text": "weight loss"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Cachexia",
+        "text": "cachexia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chills",
+        "text": "chills"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Shivering",
+        "text": "shivering"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Convulsion",
+        "text": "convulsions"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Deformity",
+        "text": "deformity"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Mucopurulent_discharge",
+        "text": "discharge"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dizziness",
+        "text": "dizziness"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Vertigo",
+        "text": "Vertigo"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fatigue",
+        "text": "fatigue"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Malaise",
+        "text": "malaise"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Weakness",
+        "text": "asthenia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hypothermia",
+        "text": "hypothermia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Jaundice",
+        "text": "jaundice"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Muscle_weakness",
+        "text": "muscle weakness"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fever",
+        "text": "pyrexia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Perspiration",
+        "text": "sweats"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Swelling_(medical)",
+        "text": "swelling"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Lymphadenopathy",
+        "text": "swollen or painful lymph node(s)"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Weight_gain",
+        "text": "weight gain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Heart_arrhythmia",
+        "text": "arrhythmia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bradycardia",
+        "text": "bradycardia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chest_pain",
+        "text": "chest pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Claudication",
+        "text": "claudication"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Palpitations",
+        "text": "palpitations"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tachycardia",
+        "text": "tachycardia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Xerostomia",
+        "text": "dry mouth"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Nosebleed",
+        "text": "epistaxis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bad_breath",
+        "text": "halitosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hearing_loss",
+        "text": "hearing loss"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Rhinorrhea",
+        "text": "nasal discharge"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Ear_pain",
+        "text": "otalgia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Otitis_media",
+        "text": "otorrhea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Sore_throat",
+        "text": "sore throat"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Toothache",
+        "text": "toothache"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tinnitus",
+        "text": "tinnitus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Trismus",
+        "text": "trismus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Abdominal_pain",
+        "text": "abdominal pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bloating",
+        "text": "bloating"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Burping",
+        "text": "belching"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding",
+        "text": "bleeding"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hematemesis",
+        "text": "Hematemesis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blood_in_stool",
+        "text": "blood in stool"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Melena",
+        "text": "melena"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hematochezia",
+        "text": "hematochezia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Constipation",
+        "text": "constipation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Diarrhea",
+        "text": "diarrhea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysphagia",
+        "text": "dysphagia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Indigestion",
+        "text": "dyspepsia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fecal_incontinence",
+        "text": "fecal incontinence"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Flatulence",
+        "text": "flatulence"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Heartburn",
+        "text": "heartburn"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Nausea",
+        "text": "nausea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Odynophagia",
+        "text": "odynophagia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Proctalgia_fugax",
+        "text": "proctalgia fugax"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Heartburn",
+        "text": "pyrosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Rectal_tenesmus",
+        "text": "Rectal tenesmus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Steatorrhea",
+        "text": "steatorrhea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Vomiting",
+        "text": "vomiting"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hair_loss",
+        "text": "alopecia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hirsutism",
+        "text": "hirsutism"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hypertrichosis",
+        "text": "hypertrichosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Nail_disease#Nail_changes_and_conditions_associated_with_them",
+        "text": "Nail_disease § Nail_changes_and_conditions_associated_with_them"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Abrasion_(medical)",
+        "text": "abrasion"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anasarca",
+        "text": "anasarca"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Petechia",
+        "text": "petechia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Purpura",
+        "text": "purpura"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Ecchymosis",
+        "text": "ecchymosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bruise",
+        "text": "bruising"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blister",
+        "text": "blister"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Edema",
+        "text": "edema"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Itch",
+        "text": "itching"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Janeway_lesions",
+        "text": "Janeway lesions"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Osler%27s_node",
+        "text": "Osler's node"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Wound",
+        "text": "laceration"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Rash",
+        "text": "rash"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urticaria",
+        "text": "urticaria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Abnormal_posturing",
+        "text": "abnormal posturing"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Acalculia",
+        "text": "acalculia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Agnosia",
+        "text": "agnosia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Alexia_(acquired_dyslexia)",
+        "text": "alexia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amnesia",
+        "text": "amnesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anomic_aphasia",
+        "text": "anomia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anosognosia",
+        "text": "anosognosia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Aphasia",
+        "text": "aphasia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Apraxia",
+        "text": "apraxia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Apraxia",
+        "text": "apraxia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Ataxia",
+        "text": "ataxia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Cataplexy",
+        "text": "cataplexy"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Altered_state_of_consciousness",
+        "text": "confusion"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysarthria",
+        "text": "dysarthria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysdiadochokinesia",
+        "text": "dysdiadochokinesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysgraphia",
+        "text": "dysgraphia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hallucination",
+        "text": "hallucination"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Headache",
+        "text": "headache"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hypokinesia",
+        "text": "hypokinetic movement disorder"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Akinesia",
+        "text": "akinesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bradykinesia",
+        "text": "bradykinesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Akathisia",
+        "text": "akathisia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Athetosis",
+        "text": "athetosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hemiballismus",
+        "text": "ballismus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blepharospasm",
+        "text": "blepharospasm"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chorea",
+        "text": "chorea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dystonia",
+        "text": "dystonia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Fasciculation",
+        "text": "fasciculation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Cramp",
+        "text": "muscle cramps"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Myoclonus",
+        "text": "myoclonus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Opsoclonus",
+        "text": "opsoclonus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tic",
+        "text": "tic"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tremor",
+        "text": "tremor"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Asterixis",
+        "text": "flapping tremor"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Insomnia",
+        "text": "insomnia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Lhermitte%27s_sign",
+        "text": "Lhermitte's sign"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Unconsciousness",
+        "text": "loss of consciousness"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Syncope_(medicine)",
+        "text": "Syncope (medicine)"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Neck_stiffness",
+        "text": "neck stiffness"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Opisthotonus",
+        "text": "opisthotonus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Paralysis",
+        "text": "paralysis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Paresis",
+        "text": "paresis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Paresthesia",
+        "text": "paresthesia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Prosopagnosia",
+        "text": "prosopagnosia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Somnolence",
+        "text": "somnolence"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Vaginal_bleeding",
+        "text": "abnormal vaginal bleeding"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Miscarriage",
+        "text": "vaginal bleeding in early pregnancy"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Miscarriage",
+        "text": "miscarriage"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Antepartum_haemorrhage",
+        "text": "vaginal bleeding in late pregnancy"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amenorrhea",
+        "text": "amenorrhea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Infertility",
+        "text": "infertility"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dyspareunia",
+        "text": "painful intercourse"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Chronic_pelvic_pain",
+        "text": "pelvic pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Vaginal_discharge",
+        "text": "vaginal discharge"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amaurosis_fugax",
+        "text": "amaurosis fugax"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amaurosis",
+        "text": "amaurosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Blurred_vision",
+        "text": "blurred vision"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dalrymple%27s_sign",
+        "text": "Dalrymple's sign"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Diplopia",
+        "text": "double vision"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Exophthalmos",
+        "text": "exophthalmos"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Mydriasis",
+        "text": "mydriasis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Miosis",
+        "text": "miosis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Pathologic_nystagmus",
+        "text": "nystagmus"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Amusia",
+        "text": "amusia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anhedonia",
+        "text": "anhedonia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Anxiety",
+        "text": "anxiety"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Apathy",
+        "text": "apathy"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Confabulation",
+        "text": "confabulation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Depression_(mood)",
+        "text": "depression"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Delusion",
+        "text": "delusion"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Euphoria_(emotion)",
+        "text": "euphoria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Homicidal_ideation",
+        "text": "homicidal ideation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Irritability",
+        "text": "irritability"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Mania",
+        "text": "mania"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Paranoia",
+        "text": "paranoid ideation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Phobia",
+        "text": "phobia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/List_of_phobias",
+        "text": "list of phobias"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Suicidal_ideation",
+        "text": "suicidal ideation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Apnea",
+        "text": "apnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hypopnea",
+        "text": "hypopnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Cough",
+        "text": "cough"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Shortness_of_breath",
+        "text": "dyspnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Bradypnea",
+        "text": "bradypnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Tachypnea",
+        "text": "tachypnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Orthopnea",
+        "text": "orthopnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Platypnea",
+        "text": "platypnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Trepopnea",
+        "text": "trepopnea"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hemoptysis",
+        "text": "hemoptysis"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Pleuritic_chest_pain",
+        "text": "pleuritic chest pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Sputum",
+        "text": "sputum"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Arthralgia",
+        "text": "arthralgia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Back_pain",
+        "text": "back pain"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Sciatica",
+        "text": "sciatica"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Dysuria",
+        "text": "dysuria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hematospermia",
+        "text": "hematospermia"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Hematuria",
+        "text": "hematuria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Impotence",
+        "text": "impotence"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Polyuria",
+        "text": "polyuria"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Retrograde_ejaculation",
+        "text": "retrograde ejaculation"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Strangury",
+        "text": "strangury"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urethra",
+        "text": "urethral discharge"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urinary_frequency",
+        "text": "urinary frequency"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urinary_incontinence",
+        "text": "urinary incontinence"
+    },
+    {
+        "href": "https://en.wikipedia.org/wiki/Urinary_retention",
+        "text": "urinary retention"
+    }
+]
