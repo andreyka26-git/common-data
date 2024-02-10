@@ -1,4 +1,2 @@
+symptoms/kaggle/dataset5/dataset5.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
-symptoms-to-diseases.json filter=lfs diff=lfs merge=lfs -text
-unique-symptoms-metadata.json filter=lfs diff=lfs merge=lfs -text
-unique-symptoms.json filter=lfs diff=lfs merge=lfs -text
